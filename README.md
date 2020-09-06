@@ -14,3 +14,5 @@ As seguintes versões dos programas e distribuições foram utilizadas para a ex
 - JetPack 4.3
 
 Agradeço à todos os desenvolvedores que disponibilizaram as ferramentas para o desenvolvimento deste sistema.
+
+**Novas funcionalidades foram implementadas no sistema, como a escolha e utilização de mais detectores (YOLOv3 e YOLOv3-tiny) e rastreadores (MOSSE, KCF e CSRT).**
